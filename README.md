@@ -18,11 +18,6 @@ Go to [rust-exercises.com](https://rust-exercises.com) and follow the instructio
   - [Visual Studio Code](https://code.visualstudio.com) with
     the [`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) extension.
 
-## Solutions
-
-You can find the solutions to the exercises in
-the [`solutions` branch](https://github.com/mainmatter/100-exercises-to-learn-rust/tree/solutions) of this repository.
-
 # License
 
 Copyright © 2024- Mainmatter GmbH (https://mainmatter.com), released under the
