@@ -2,6 +2,11 @@
 
 This repo contains my solutions to the exercises of the course https://rust-exercises.com/
 
+The [final project of the course](https://github.com/nicolasfguillaume/100-exercises-to-learn-rust/tree/main/exercises/08_futures/08_outro) was to implement an asynchronous REST API to expose the features of the ticket management system developed throughout the course. The API should provide endpoints to:
+- Create a new ticket
+- Retrieve ticket details
+- Update ticket details
+
 ## Getting started
 
 Go to [rust-exercises.com](https://rust-exercises.com) and follow the instructions there to get started with the course.
